@@ -6,7 +6,7 @@ In this project, I implemented a client in C capable of interacting with a REST 
 
 • Understanding commonly used web concepts such as JSON, session, JWT
 
-• Using external libraries for manipulating JSON objects in REST API.
+• Using external libraries for manipulating JSON objects in REST API. For that, i used the parson library, represented by the 2 parson files (.c and .h)
 
 Although the de facto technology for developing web clients is the trio of HTML, CSS, and JavaScript, I chose to use C/C++ in order to get as close as possible to the protocol and to solidify my understanding of the concepts.
 
